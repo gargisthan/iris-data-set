@@ -6,3 +6,5 @@ Plot the box plots for the iris data set.
 Case Study : Iris Data Set
 Plot the scatter plot for the iris data set.
 2. Draw Scatter plot for sepal length and sepal width. give title, color and X and Y axis label
+
+Btter UI/UX needed bROTHER
